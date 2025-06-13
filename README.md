@@ -2,9 +2,7 @@
 
 # 👋 Halo, saya Muhamad Lutfi Yustisyia!
 
-Selamat datang di profil GitHub saya! I Love Codes and I Love Chess.
-
-I Love Chess karena dibalik strategi yang kita susun ada pesan tersirat. Jika kita salah mengambil langkah memang tidak ada cara untuk mundur, Namun percayalah pada dirimu sendiri untuk mengubah kesalahan menjadi taktik jitu kemenangan. 🔥
+Selamat datang di profil GitHub saya! I Love Coding and I Love Playing Chess.
 
 ## 🚀 Tentang Saya
 
@@ -21,7 +19,8 @@ I Love Chess karena dibalik strategi yang kita susun ada pesan tersirat. Jika ki
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
 ![Quasar](https://img.shields.io/badge/-Quasar-333?style=flat&logo=quasar)
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php
+)
 ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
 ![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
 ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
