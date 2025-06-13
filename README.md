@@ -5,15 +5,15 @@
 Selamat datang di profil GitHub saya! I Love Coding and I Love Playing Chess.
 
 ## 🚀 Tentang Saya
-
+- 📝 Saya memulai karir saya pada bulan Agustus 2023 hingga saat ini
 - 🔭 Saat ini saya sedang mengerjakan: web bursa efek indonesia
-- 📫 Cara menghubungi saya: myustisyia@gmail.com
 - ⚡ If some people feel dizzy about something challenging, I am the opposite. That is why I love coding.
 
 ## 🛠️ Teknologi dan Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![JavaScript](
+https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
@@ -49,5 +49,7 @@ Selamat datang di profil GitHub saya! I Love Coding and I Love Playing Chess.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhamad-lutfi-yustisyia)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/lutfiyustisyia25/)
+
+- 📫 Cara menghubungi saya: myustisyia@gmail.com
 
 ⭐ Jangan lupa beri bintang ⭐ pada proyek yang menurutmu menarik!
