@@ -8,7 +8,7 @@ Selamat datang di profil GitHub saya! I Love Coding and I Love Playing Chess.
 
 - 🔭 Saat ini saya sedang mengerjakan: web bursa efek indonesia
 - 📫 Cara menghubungi saya: myustisyia@gmail.com
-- ⚡ Fakta unik: If some people feel dizzy about something challenging, I am the opposite. That is why I love coding.
+- ⚡ If some people feel dizzy about something challenging, I am the opposite. That is why I love coding.
 
 ## 🛠️ Teknologi dan Tools
 
